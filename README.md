@@ -10,7 +10,7 @@ python -m venv myvenv
 pip install docker
 ## Build docker container
 
-docker build -t loan-app .
+docker build -t my-python-app .
 
 ## Run container
 
